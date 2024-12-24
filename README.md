@@ -1,7 +1,6 @@
 # Hi there 👋
-I’m currently working on some cool things!
 
-Stay tuned....
+My day job is a Senior Data Engineer. In my free time, I am an independent Workday consultant and indie developer. I like to build things that help make tasks easier and further my programming skills.
 
 Programming Languages
 ------
